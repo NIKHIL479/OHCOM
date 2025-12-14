@@ -1,2 +1,18 @@
+# Visual Studio temp files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# Node / frontend
+node_modules/
+dist/
+*.log
+
 # Ignore IDE files
 .vscode/
